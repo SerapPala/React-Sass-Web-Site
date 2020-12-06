@@ -1,5 +1,5 @@
 # React-Sass-Web-Site
-Bu proje React ve Sass kullanarak oluşturulmuştur.
+
 
 
 Projeyi ayağa kaldırmak için gerekli adımlar:
